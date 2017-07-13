@@ -35,7 +35,7 @@
   /**
    * Marlin release version identifier
    */
-  #define SHORT_BUILD_VERSION "MK2Clone"
+  #define SHORT_BUILD_VERSION "Clone by EARTH"
 
   /**
    * Verbose version identifier which should contain a reference to the location
@@ -68,7 +68,7 @@
   /**
    * Defines a generic printer name to be output to the LCD after booting Marlin.
    */
-  #define MACHINE_NAME "i3 MK2 Clone by q3ok"
+  #define MACHINE_NAME "Clone by EARTH"
 
   /**
    * The SOURCE_CODE_URL is the location where users will find the Marlin Source
@@ -76,7 +76,7 @@
    * has a distinct Github fork— the Source Code URL should just be the main
    * Marlin repository.
    */
-  #define SOURCE_CODE_URL "https://github.com/q3ok/Marlin"
+  #define SOURCE_CODE_URL "http://www.clone.earth/"
 
   /**
    * Default generic printer UUID.
@@ -87,6 +87,6 @@
    * The WEBSITE_URL is the location where users can get more information such as
    * documentation about a specific Marlin release.
    */
-  #define WEBSITE_URL "https://prusaclone.wordpress.com"
+  #define WEBSITE_URL "http://www.clone.earth/"
 
 #endif // USE_AUTOMATIC_VERSIONING
